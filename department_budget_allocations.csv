@@ -1,0 +1,53 @@
+fiscal_year,cost_center,department,expense_category,allocated_budget_usd,budget_owner
+2025,CC-100,Engineering,Cloud Infrastructure,10283382.0,Director of Engineering
+2025,CC-100,Engineering,Salaries & Contractors,13192791.0,Director of Engineering
+2025,CC-100,Engineering,DevOps Tooling,13018589.0,Director of Engineering
+2025,CC-100,Engineering,Hardware & Peripherals,4011918.0,Director of Engineering
+2025,CC-200,Marketing,Paid Performance Ads,15909557.0,Director of Marketing
+2025,CC-200,Marketing,Events & Sponsorships,15576002.0,Director of Marketing
+2025,CC-200,Marketing,Content & SEO Agencies,11488292.0,Director of Marketing
+2025,CC-200,Marketing,Brand & Creative Assets,9339454.0,Director of Marketing
+2025,CC-300,Sales,Travel & Entertainment,12977906.0,Director of Sales
+2025,CC-300,Sales,Commissions & Incentives,10668711.0,Director of Sales
+2025,CC-300,Sales,CRM & Enablement Software,3963757.0,Director of Sales
+2025,CC-300,Sales,Client Hospitality,16888358.0,Director of Sales
+2025,CC-400,Operations,SaaS Licenses & ERP,1992189.0,Director of Operations
+2025,CC-400,Operations,Office Facilities & Lease,3377504.0,Director of Operations
+2025,CC-400,Operations,Logistics & Shipping,1609815.0,Director of Operations
+2025,CC-400,Operations,Professional Services,2284422.0,Director of Operations
+2025,CC-500,Finance & Legal,External Audit & Tax,1599646.0,Director of Finance & Legal
+2025,CC-500,Finance & Legal,Legal Counsel & Retainers,1118118.0,Director of Finance & Legal
+2025,CC-500,Finance & Legal,Treasury & Bank Fees,3267033.0,Director of Finance & Legal
+2025,CC-500,Finance & Legal,Payroll Processing,4464451.0,Director of Finance & Legal
+2025,CC-600,Product & Design,UX Research & UserTesting,4354998.0,Director of Product & Design
+2025,CC-600,Product & Design,Prototyping Software,4967456.0,Director of Product & Design
+2025,CC-600,Product & Design,Design Contractors,3588519.0,Director of Product & Design
+2025,CC-700,Customer Success,Ticketing & Support Tools,4041991.0,Director of Customer Success
+2025,CC-700,Customer Success,Customer Advisory Board,3798606.0,Director of Customer Success
+2025,CC-700,Customer Success,Retention Swag & Gifting,2491415.0,Director of Customer Success
+2026,CC-100,Engineering,Cloud Infrastructure,9443789.6,Director of Engineering
+2026,CC-100,Engineering,Salaries & Contractors,7218131.2,Director of Engineering
+2026,CC-100,Engineering,DevOps Tooling,18287004.96,Director of Engineering
+2026,CC-100,Engineering,Hardware & Peripherals,11046327.04,Director of Engineering
+2026,CC-200,Marketing,Paid Performance Ads,9420790.4,Director of Marketing
+2026,CC-200,Marketing,Events & Sponsorships,7777530.88,Director of Marketing
+2026,CC-200,Marketing,Content & SEO Agencies,6344404.64,Director of Marketing
+2026,CC-200,Marketing,Brand & Creative Assets,7742051.52,Director of Marketing
+2026,CC-300,Sales,Travel & Entertainment,4445920.64,Director of Sales
+2026,CC-300,Sales,Commissions & Incentives,14623852.32,Director of Sales
+2026,CC-300,Sales,CRM & Enablement Software,9024915.2,Director of Sales
+2026,CC-300,Sales,Client Hospitality,6273621.76,Director of Sales
+2026,CC-400,Operations,SaaS Licenses & ERP,2274951.84,Director of Operations
+2026,CC-400,Operations,Office Facilities & Lease,5479941.6,Director of Operations
+2026,CC-400,Operations,Logistics & Shipping,4530100.96,Director of Operations
+2026,CC-400,Operations,Professional Services,2477202.56,Director of Operations
+2026,CC-500,Finance & Legal,External Audit & Tax,1395066.4,Director of Finance & Legal
+2026,CC-500,Finance & Legal,Legal Counsel & Retainers,985359.2,Director of Finance & Legal
+2026,CC-500,Finance & Legal,Treasury & Bank Fees,1447463.36,Director of Finance & Legal
+2026,CC-500,Finance & Legal,Payroll Processing,2124513.44,Director of Finance & Legal
+2026,CC-600,Product & Design,UX Research & UserTesting,5410914.88,Director of Product & Design
+2026,CC-600,Product & Design,Prototyping Software,3143006.72,Director of Product & Design
+2026,CC-600,Product & Design,Design Contractors,2181471.04,Director of Product & Design
+2026,CC-700,Customer Success,Ticketing & Support Tools,5424769.28,Director of Customer Success
+2026,CC-700,Customer Success,Customer Advisory Board,4245577.28,Director of Customer Success
+2026,CC-700,Customer Success,Retention Swag & Gifting,4580554.72,Director of Customer Success
